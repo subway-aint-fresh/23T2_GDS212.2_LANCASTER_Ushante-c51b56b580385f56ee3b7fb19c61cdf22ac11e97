@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GameManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - CorrectImage
+  - WrongImage
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Email
+    uniqueID: 76434035
+    locked: 0
+  - name: Image Finder
+    uniqueID: 2851885587
+    locked: 0
+  - name: Simon Says
+    uniqueID: 3763196521
+    locked: 0
+  - name: Animal Guesser
+    uniqueID: 3259883165
+    locked: 0
